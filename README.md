@@ -1,7 +1,6 @@
 # Submission Dicoding-Belajar Fundamental Aplikasi Android
 
 ### Compile
-Just clone the repository with:
 
 Submission 1 Aplikasi Github User:
 ```sh
