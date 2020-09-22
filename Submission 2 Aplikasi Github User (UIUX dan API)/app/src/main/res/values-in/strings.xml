@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Submission 2 Dicoding</string>
+    <string name="find_username">Cari Username</string>
+    <string name="ali_yasin">Ali Yasin</string>
+    <string name="aliyasin.dev">\@%s</string>
+    <string name="_100_repository">%s Repositori</string>
+    <string name="followings">%s Mengikuti</string>
+    <string name="follower">%s Pengikut</string>
+
+    <string name="hello_blank_fragment">Halo Fragment Kosong</string>
+    <string name="work_in">Work in</string>
+    <string name="location">Location</string>
+    <string name="kosong">NULL</string>
+    <string name="separator">Separator</string>
+    <string name="count">Count</string>
+    <string name="follwing">Mengikuti</string>
+    <string name="follwer">Pengikut</string>
+    <string name="repo">Repositori</string>
+
+</resources>

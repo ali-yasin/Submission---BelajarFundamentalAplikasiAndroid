@@ -1,0 +1,115 @@
+<resources>
+    <string name="app_name">Github User</string>
+    <string name="github_icon">Github Icon</string>
+    <string name="github_user">Submission Github User 1 Dicoding</string>
+    <string name="repo">100 Repository</string>
+    <string name="gitusername">"@githubuser"</string>
+    <string name="followw">1000 following 1000 followers</string>
+    <string name="github_names">Github Names</string>
+
+    <!-- Other string resources-->
+
+    <string-array name="username">
+        <item>gilangadhan</item>
+        <item>nandot12</item>
+        <item>isfaaghyth</item>
+        <item>arfirman1402</item>
+        <item>arifaizin</item>
+        <item>radiegtya</item>
+        <item>sidiqpermana</item>
+        <item>omrobbie</item>
+        <item>drawrs</item>
+        <item>rakaadinugroho</item>
+    </string-array>
+
+    <string-array name="name">
+        <item>Gilang Ramadhan</item>
+        <item>Nando Septian Husni</item>
+        <item>Muh Isfhani Ghiath</item>
+        <item>Ar Firman Syahputra</item>
+        <item>Ahmad Arif Faizin</item>
+        <item>Ega Wachid Radiegtya</item>
+        <item>Sidiq Permana</item>
+        <item>omrobbie</item>
+        <item>Rizal Hilman</item>
+        <item>Raka Adi Nugroho</item>
+    </string-array>
+
+    <string-array name="location">
+        <item>Semarang</item>
+        <item>Padang</item>
+        <item>Jakarta</item>
+        <item>South Jakarta, Jakarta Indonesia</item>
+        <item>Semarang, Indonesia</item>
+        <item>Indonesia</item>
+        <item>Kotagede, Yogyakarta, Indonesia</item>
+        <item>Denpasar, Bali, Indonesia</item>
+        <item>BSD - Tangerang, Indonesia</item>
+        <item>Yogyakarta, Indonesia</item>
+    </string-array>
+
+    <string-array name="repository">
+        <item>50</item>
+        <item>189</item>
+        <item>316</item>
+        <item>17</item>
+        <item>128</item>
+        <item>86</item>
+        <item>67</item>
+        <item>205</item>
+        <item>183</item>
+        <item>100</item>
+    </string-array>
+
+    <string-array name="company">
+        <item>Dicoding</item>
+        <item>udacoding</item>
+        <item>Tokopedia</item>
+        <item>Bukalapak</item>
+        <item>Dicoding Indonesia</item>
+        <item>DumbWays.id</item>
+        <item>Nusantara Beta Studio</item>
+        <item>Tokopedia</item>
+        <item>Udacoding</item>
+        <item>Tokopedia</item>
+    </string-array>
+
+    <string-array name="followers">
+        <item>135</item>
+        <item>160</item>
+        <item>554</item>
+        <item>109</item>
+        <item>88</item>
+        <item>272</item>
+        <item>505</item>
+        <item>185</item>
+        <item>137</item>
+        <item>58</item>
+    </string-array>
+
+    <string-array name="following">
+        <item>3</item>
+        <item>39</item>
+        <item>168</item>
+        <item>185</item>
+        <item>15</item>
+        <item>1</item>
+        <item>10</item>
+        <item>19</item>
+        <item>99</item>
+        <item>6</item>
+    </string-array>
+
+    <string-array name="avatar">
+        <item>@drawable/user1</item>
+        <item>@drawable/user2</item>
+        <item>@drawable/user3</item>
+        <item>@drawable/user4</item>
+        <item>@drawable/user5</item>
+        <item>@drawable/user6</item>
+        <item>@drawable/user7</item>
+        <item>@drawable/user8</item>
+        <item>@drawable/user9</item>
+        <item>@drawable/user10</item>
+    </string-array>
+</resources>
